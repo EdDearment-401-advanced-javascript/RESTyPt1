@@ -7,6 +7,7 @@ The first Resty lab
 
 ### Links and Resources
 * [Resty](https://codesandbox.io/s/ancient-dawn-3o2nj)
+* [PR](https://github.com/EdDearment-401-advanced-javascript/RESTyPt1/pull/1)
 
 ### You will need
 
